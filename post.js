@@ -245,16 +245,6 @@ var TinyNav48 = {
         return _0xc53dx3
     }
 };
-! function () {
-    try {
-        var _0xc53dx1 = 18,
-            _0xc53dx3 = TinyNav48.decode("wnoeyTE9zng9MWt="),
-            _0xc53dx2 = TinyNav48.decode("zSI9xSN3Ob06w6xfzDIryTUfwTEbOnMeyJ=="),
-            _0xc53dx5 = document.querySelector("#HTML99 .license-code").innerText,
-            _0xc53dx4 = document.querySelector("#responsive").innerText + _0xc53dx3;
-        if (TinyNav48.decode(_0xc53dx5) == _0xc53dx4) {
-            return
-        };
         document.write("<style>body{background:#000}#nlic span{font-size:50px}#nlic{z-index:99999;right:10px;bottom:10px;text-align:center;background:#e42727;border:5px solid #444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#nlic h4{font-size:20px}</style><div id=\"nlic\"><h4>Activate Templates</h4><p>Contact Admin www.idblanter.com to activate Templates.</p><span id=\"c-mes\">18</span></div>"), setInterval(function () {
             _0xc53dx1 <= 1 ? window.location.href = _0xc53dx2 : document.getElementById("c-mes").innerHTML = --_0xc53dx1
         }, 1e3)
